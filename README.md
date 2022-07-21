@@ -1,4 +1,4 @@
-# google_auth
+# college smart mess app
 
 A new Flutter project.
 
